@@ -8,7 +8,8 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #163160;
-    margin: 0 0 2.0em;
+    /* margin: 0 0 2.0em; */
+    margin: 5px 50px 2px 50px;
     padding: 1.5em  0 2.0em 1.5em;
     font-family: var(--bs-font-sans-serif);
 }
